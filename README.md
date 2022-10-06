@@ -2,7 +2,9 @@ I've worked with the Internet since 1998, first as a hobby starting of with Inte
 
 My professional career as a developer started at Aller Internett AS in 2007 where I daily dealt with web technologies such as PHP, JavaScript and HTML. I've worked through the entire web stack, and have the know-how to work with everything from architecture to front end development.
 
-I currently work for Bekk Consulting AS as a Manager Consultant within Frontend Development, daily fighting and conquering technologies within web development.
+I then worked for Bekk Consulting AS as a Manager Consultant within Frontend Development, daily fought and conquered technologies within web development.
+
+I know work as a Principal Engineer for Knowit
 
 I am an open source evangelist, and love to work with new emerging technologies related to Open Source.
 
