@@ -4,7 +4,7 @@ My professional career as a developer started at Aller Internett AS in 2007 wher
 
 I then worked for Bekk Consulting AS as a Manager Consultant within Frontend Development, daily fought and conquered technologies within web development.
 
-I know work as a Principal Engineer for Knowit
+I now work as a Principal Engineer for Knowit
 
 I am an open source evangelist, and love to work with new emerging technologies related to Open Source.
 
