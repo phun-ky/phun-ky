@@ -8,6 +8,10 @@ When he's not coding or leading projects, Alexander is a bon vivant who loves co
 
 He is available as a speaker and advisor for those seeking to build sustainable, technology-driven organizations.
 
+## Stats
+
+![phun-ky's GitHub stats](https://github-readme-stats.vercel.app/api?username=phun-ky&theme=dark&show_icons=true)
+
 ## Summary
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=phun-ky&margin-w=4&no-frame=true&column=5&theme=darkhub&margin-w=25&margin-h=15&no-bg=true)
